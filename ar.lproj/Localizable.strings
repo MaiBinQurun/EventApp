@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Events
+
+  Created by mai abdullah qurun on 18/06/1444 AH.
+  
+*/
+
+
+
+"All" = "الكل";
+
+"Educational" = "تعليمية";
+
+"Social" = "اجتماعية";
+
+"Religious" = "دينية";
+
+"Other" = "اخرى";
+
+"Add an Event" = "اضافة حدث";
+
+"Graduation party" = "حفل التخرج";
+
+"Eid" = "العيد";
+
+"Final tests" = "الاختبارات النهائية";
+
+"Birthday party" = "حفل عيد ميلادي";
+
+
+
