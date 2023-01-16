@@ -1,17 +1,31 @@
 # EventApp
 
+
+## Big Idea 
+
+Inclusion.
+
+
+
+## Challenge statement
+
+create a tool that remind people of there special events. to keep them updated.
+
+## Solution Concept
+
 an app for people who wants to track important events so they will be organized and excited.
-it provides easy reliable way of organizing and tracking events, by adding, sorting and categorizing events
 
 
-### Techbologies & Tools
+
+
+## Techbologies & Tools
 
 Xcode - swiftui - sketch 
 
 
 
 
-### Screen shots of the App
+## Screen shots of the App
 
 
 <div>
@@ -21,13 +35,14 @@ Xcode - swiftui - sketch
 </div
 
 
-### Requirement:
+  
+## Requirement:
 
 iOS device. activated accesibility 
 
 
 
-### Demo
+## Demo
 
 
 [![Demo of the App](https://user-images.githubusercontent.com/116794314/212031013-c75aba9e-fd80-4eb7-b5a9-5019dc158666.png" width="100)](https://user-images.githubusercontent.com/116794314/212687820-1a9e72ba-a41e-4c96-b0fb-82c687e49477.mov)
