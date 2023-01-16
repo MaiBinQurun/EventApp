@@ -1,7 +1,7 @@
 # EventApp
 
 an app for people who wants to track important events so they will be organized and excited.
-it provides easy reliable way of organizing and tracking events, by adding, sorting and categorizing events and also send a notification 
+it provides easy reliable way of organizing and tracking events, by adding, sorting and categorizing events
 
 
 ### Techbologies & Tools
