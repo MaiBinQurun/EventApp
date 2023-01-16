@@ -36,6 +36,10 @@ Xcode - swiftui - sketch
 
 
   
+  
+  
+  
+  
 ## Requirement:
 
 iOS device. activated accesibility 
